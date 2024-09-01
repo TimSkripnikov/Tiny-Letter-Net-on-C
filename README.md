@@ -29,13 +29,12 @@ This is followed by lines with input data for each example of the first category
 Then specify the number of examples of the second category.
 The next lines contain the input data for each example of the second category.
 Example of the contents of test.txt for the letters **T** and **C**:
-10
-
-11111
-10000
-10000
-10000
-11111
+**10**
+**11111**
+**10000**
+**10000**
+**10000**
+**11111**
 
 11100
 10000
